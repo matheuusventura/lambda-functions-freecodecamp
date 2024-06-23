@@ -2,7 +2,7 @@
 Learning Lambda Functions in Python by creating an expense tracking software during the Scientific Computing with Python course from freecodecamp.org.
 <br>
 <br>
-🗣️ [portuguese](https://github.com/matheuusventura/lambda-functions-freecodecamp) - [english](https://github.com/matheuusventura/lambda-functions-freecodecamp/blob/main/README-english.md) - [spanish](https://web.whatsapp.com/)
+🗣️ [portuguese](https://github.com/matheuusventura/lambda-functions-freecodecamp) - [english](https://github.com/matheuusventura/lambda-functions-freecodecamp/blob/main/README-english.md)
 <h3>What are Lambda Functions?<h3></h3>
 Lambda functions are anonymous functions defined using the 'lambda' keyword. They are typically used to create small, quick functions, especially when the function will be used only once or for a short period of time.
 
