@@ -52,5 +52,11 @@ então a função de listar todas as despesas imprime:
 Amount: 200.0, Category: food
 ```
 
+<h3>Atualização 23/06</h3>
+Atualização realizada fora do curso para treinar um pouco da minha lógica e do que aprendi.
+
+- Adicionado a opção de remover despesas;
+- Mensagens de sucesso/erro.
+
 <hr>
 <h4>👋😆 Essa foi minha terceira etapa do curso da freecodecamp, estarei publicando e explicando todos os projetos e minha progressão durante o andamento.</h4>
